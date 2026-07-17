@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in {1..5}; do
+for i in {1..10}; do
   BRANCH="tweak-$(date +%s)"
   git checkout -b "$BRANCH"
   echo "// minor update $(date)" >> notes.md
