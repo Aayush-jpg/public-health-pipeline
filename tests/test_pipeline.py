@@ -10,7 +10,7 @@ class TestSafeInt:
         assert safe_int("42") == 42
 
     def test_float_string(self):
-        assert safe_int("42.9") == 42
+        assert safe_int("42.9") == 42 
 
     def test_comma_formatted(self):
         assert safe_int("1,234") == 1234
