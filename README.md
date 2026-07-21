@@ -215,4 +215,4 @@ Data Engineer | CS Graduate, Northern Kentucky University 2026
 =======
 # public-health-pipeline
 End-to-end ETL pipeline ingesting real CDC public health data into PostgreSQL with advanced SQL analytics, Docker, and automated daily runs via GitHub Actions.
->>>>>>> ef64b00d4098e87d29a5bacc303618db4aecbc9c
+
