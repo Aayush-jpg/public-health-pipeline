@@ -9,7 +9,7 @@
 -- 1. COVID DEATHS ANALYSIS
 -- =============================================================================
 
--- 1a. Total COVID deaths by state, ranked
+-- 1a. Total COVID deaths by state, ranked 
 SELECT
     state,
     SUM(covid_19_deaths)                                    AS total_deaths,
