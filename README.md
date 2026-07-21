@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Public Health Data Pipeline 🏥
 
 An end-to-end data engineering pipeline that ingests real public health data from CDC APIs, loads it into a PostgreSQL data warehouse, and exposes advanced SQL analytics for business intelligence and reporting.
@@ -43,7 +42,6 @@ Automation: GitHub Actions runs pipeline daily at 6 AM UTC
 Infrastructure: Docker + docker-compose for local development
 ```
 
----
 
 ## The Problem This Solves
 
