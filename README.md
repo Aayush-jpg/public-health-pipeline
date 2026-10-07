@@ -210,7 +210,3 @@ Every run is logged with row counts and status. This makes it easy to detect fai
 Data Engineer | CS Graduate, Northern Kentucky University 2026
 
 [LinkedIn](https://www.linkedin.com/in/ayush-ghimire-/) | [GitHub](https://github.com/Aayush-jpg)
-=======
-# public-health-pipeline
-End-to-end ETL pipeline ingesting real CDC public health data into PostgreSQL with advanced SQL analytics, Docker, and automated daily runs via GitHub Actions.
-
